@@ -1,1 +1,1 @@
-<?php echo "xin chao Thai son ahihihhhh"; ?>
+<?php echo "string"; ?>
