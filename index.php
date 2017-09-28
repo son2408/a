@@ -1,1 +1,1 @@
-<?php echo "xin chao"; ?>
+<?php echo "xin chao Thai son"; ?>
